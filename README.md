@@ -16,7 +16,7 @@ To analyze Amazon sales data and identify key trends such as total revenue, top-
 - 🏙️ **Top City:** Ahmedabad & Delhi
 
 ## 🖼️ Dashboard Preview
-![Amazon Dashboard Preview](screenshot.jpeg)
+![Amazon Dashboard Preview](Screenshot.jpeg)
 
 ## 📂 Files in this Project
 | File Name                     | Description                                                       |
@@ -45,5 +45,6 @@ To analyze Amazon sales data and identify key trends such as total revenue, top-
 **Sneha PB**  
 📧 Email:snehapb25@gmail.com  
 🌐 Portfolio: [https://snehapb25.github.io](https://snehapb25.github.io)
+
 
 
